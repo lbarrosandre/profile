@@ -1,7 +1,6 @@
-# Welcome to Andre L. Barros GitHub Pages
- My Profile and Goals
- 
- I am a Planning Coordinator with broad experience in strategic planning, BI reports, cost and negociation, for more 10 years working in food companies. 
+## Welcome to [André L. Barros](https://github.com/lbarrosandre) GitHub Pages
+
+I am a Planning Coordinator with broad experience in strategic planning, BI reports, cost and negociation, for more 10 years working in food companies. 
 
 I am currently responsible for profitability analysis of new projects and Production planning strategies for the clients that we serve.
 
