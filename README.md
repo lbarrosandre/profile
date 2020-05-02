@@ -4,18 +4,15 @@ I am a Planning Coordinator with broad experience in strategic planning, BI repo
 
 I am currently responsible for profitability analysis of new projects and Production planning strategies for the clients that we serve.
 
-Companies: 
-LSG Group (2014/Current) 
-SkyAsia (2012/2014) 
-SiSenõr (2010/2011) 
-GRSA (2007/2010)
-
 Skills: Strategy Planning; Team Management; Interpersonal Skills; Decision Making; Cost Analysis; Leadership; P&L; Power BI; Data Studio; Negotiation; Operational Performance;  Problem-solving; Communication..
 
 ## News About Me
 ### Experiences
-* Implementation of BI tools for production analysis and management reports..
+* Implementation of BI tools for production analysis and management reports.
 * Supplier analysis, cost reduction and negotiations improvement through the development of suppliers in a strategic location.
+* Responsible for developing a purchasing area and centralizing orders.
+* Development of MPS (master production system) in google sheets, generating production orders in real time and improving raw material control.
+* Implementation of visual control in strategic production areas.
 
 ### Career
 * 2014-Now  Production Planning Coordinator,  [LSG Group](https://www.lsg-group.com), SP.
