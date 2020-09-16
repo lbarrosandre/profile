@@ -20,6 +20,8 @@ Skills: Strategy Planning; Team Management; Interpersonal Skills; Decision Makin
 * 2010-2011  Purchaser PL, [SiSenõr](https://sisenor.com.br), SP.
 * 2007-2010  Purchaser Jr, [GRSA](http://www.grsa.com.br), SP.
 
+### Projects
+
 ### Education
 * 2020-2023 Bachelor Degree, Data Science, UNIVESP, São Paulo.
 * 2008-2009 Specialized Degree, Food Quality Management, USJT, São Paulo.
