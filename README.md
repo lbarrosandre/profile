@@ -15,7 +15,8 @@ Skills: Strategy Planning; Team Management; Interpersonal Skills; Decision Makin
 * Implementation of visual control in strategic production areas.
 
 ### Career
-* 2014-Now  Production Planning Coordinator,  [LSG Group](https://www.lsg-group.com), SP.
+* 2021-Now   Analyst Planning Sr, [Fortbras](https://fortbras.com.br/), SP.
+* 2014-2021  Production Planning Coordinator,  [LSG Group](https://www.lsg-group.com), SP.
 * 2012-2014  Purchaser PL, [Sky Asia](http://www.skyasia.com.br), SP.
 * 2010-2011  Purchaser PL, [SiSenõr](https://sisenor.com.br), SP.
 * 2007-2010  Purchaser Jr, [GRSA](http://www.grsa.com.br), SP.
